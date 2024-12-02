@@ -37,3 +37,4 @@ Frontend: HTML, CSS e JavaScript.
 Backend: Django gerencia a lógica do servidor e o banco de dados.
 Banco de dados: SQLite (por padrão).
 
+![Imagem do WhatsApp de 2024-11-30 à(s) 14 58 42_c0c0602a](https://github.com/user-attachments/assets/9c92add6-8504-4c9b-8886-e570d6d4cdf6)
