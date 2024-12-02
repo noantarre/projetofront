@@ -1,4 +1,9 @@
-# Django Web Project
+# Projeto SweetDreams
+
+A Sweet Dreams é sua aliada na busca por uma rotina de sono saudável
+e um bem-estar geral. Nosso site oferece soluções personalizadas para
+você redescobrir o prazer de acordar descansado e pronto para
+enfrentar os desafios do dia.
 
 Este é um projeto web desenvolvido utilizando Django, HTML, CSS e JavaScript.
 
